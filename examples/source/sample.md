@@ -9,8 +9,7 @@
 
 ### Profile {#profile}
 
-I'm with the experience in software programming since 2008, Linux system server management since 2012, and Android and embedded systems development since 2013. In 2010, I started to contact with open source projects, and be a user and promoter. Then in 2013, I tried to hold a project with friends in github and be a committer.
-I'm a person who agrees with the concept of open source, and full of passion in learning various knowledges.
+A software developer passionate in learning various new skills and knowledge, intoxicated in being a contributer and promoter of open source projects, experiencd in building a chatbot server which can afford 1000 people in the same time, and believe that pratice every day is the best way to progress.
 
 -------
 
